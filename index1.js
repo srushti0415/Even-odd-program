@@ -4,5 +4,4 @@ function addtwonum() {
     var ans = document.getElementById('answer');
     ans.value = num1+num2;
     
-
 }
