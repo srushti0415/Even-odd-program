@@ -1,9 +1,9 @@
 function EvenorOdd(a) {
     if (a % 2 == 0 ) {
-      console.log ("The no. is even")
+      console.log ("The noumber is even")
     }
     else {
-        console.log("The no. is odd")
+        console.log("The number is odd")
     }
 }
-EvenorOdd(4)
+EvenorOdd(45)
